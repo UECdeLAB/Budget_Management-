@@ -32,5 +32,6 @@
   プロジェクト単位でいくら余っているのか，オーバーしているのか
   月単位での収支
 
-また、機能に関するER図は以下のリンクにある。(GitHubアカウントが必要)
-url(https://app.diagrams.net/#HUECdeLAB%2FBudget_Management-%2Fmain%2FERDiagram)
+また、機能に関するER図は以下のリンクにあります(GitHubアカウントが必要)
+https://app.diagrams.net/#HUECdeLAB%2FBudget_Management-%2Fmain%2FERDiagram
+
