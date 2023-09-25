@@ -24,12 +24,12 @@
 </dl>
 
   
-## 分析機能
-<dt>
+## 3.分析機能
+<dl>
   <dt>項目IDごとにいくら余っているのか，オーバーしているのか</dt>
   <dt>プロジェクト単位でいくら余っているのか，オーバーしているのか</dt>
   <dt>月単位での収支</dt>
-</dt>
+</dl>
 
 また、機能に関するER図は以下のリンクにある.(GitHubアカウントが必要)<br>
 https://app.diagrams.net/#HUECdeLAB%2FBudget_Management-%2Fmain%2FERDiagram
